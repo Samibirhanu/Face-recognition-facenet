@@ -1,0 +1,6 @@
+*.pb
+model/
+train_img/
+videos/
+class/
+aligned_img/
