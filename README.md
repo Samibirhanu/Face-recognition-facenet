@@ -1,2 +1,3 @@
-# Face-recognition-facenet
-face-recognition based attendance system using face-net architecture
+# Facenet_Tensorflow
+
+Instructions : https://youtu.be/a25Vr8mqmGc
